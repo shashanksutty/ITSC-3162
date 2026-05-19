@@ -1,2 +1,4 @@
 # ITSC-3162
-For my intro data mining course
+Hello I am Shashank Sutty!
+
+This is for my Intro to Data Mining course!
